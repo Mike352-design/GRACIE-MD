@@ -1,7 +1,7 @@
 {
   "name": "POPKID-MD",
-  "version": "10.8.1",
-  "description": "POPKID-MD latest multi device whatsapp bot",
+  "version": "19.8.1",
+  "description": "GRACIE-MD latest multi device whatsapp bot",
   "main": "body.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "restart": "pm2 restart POPKID-MD"
   },
   "keywords": ["popkid-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "popkid",
+  "author": "Klean",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
