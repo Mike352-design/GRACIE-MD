@@ -1,7 +1,9 @@
+***_GRACIE MD_ **
+
 <p align="center">  
-  <a href="https://files.catbox.moe/qck6sr.jpg">
-    <img alt="secktor docs" height="300" src="https://files.catbox.moe/qck6sr.jpg">
-    <h1 align="center"> POP KID MADE BY POPKID</h1>
+  <a href="https://files.catbox.moe/y0kewn.jpg">
+    <img alt="secktor docs" height="500" src="https://files.catbox.moe/y0kewn.jpg">
+    <h1 align="center"> GRACIE MADE BY ALVIN</h1>
   </a>
 </p>  
   
@@ -15,7 +17,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/Popkiddevs"><img title="Author" src="https://img.shields.io/badge/popkidtech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254111385747"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Mike352-design"><img title="Author" src="https://img.shields.io/badge/popkidtech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254111385747"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Popkiddevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Popkiddevs?label=Followers&style=social"></a>
@@ -41,7 +43,7 @@
 
 
 
-### 🧚‍♀️POP KID💫
+### 🧚‍♀️ GRACIE 💫
 
 ***
 
@@ -76,7 +78,7 @@
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🚨How_to_deploy-grey.svg)](https://youtu.be/MsHd3uzDUhY?si=mitgINm02HtAhoBm)
 
- # ⚡ POPKID INFO
+ # ⚡ GRACIE INFO
 ***
 
 </p>
@@ -168,12 +170,12 @@ In conclusion, the ChatBot solution presented here provides an efficient and use
 We welcome any feedback or suggestions you may have to help improve the chatbot solution further. With the ability to integrate with different messaging platforms and services, this solution can be adapted to various use cases and industries. As the chatbot ecosystem continues to grow, we believe that solutions like this will play an increasingly important role in providing seamless and efficient interactions between users and services.
 
 
-[popkid Code](.)
+[GRACIE Code](.)
 
 
 
 
-[POPKID MD COPY](.)
+[GRACIE MD COPY](.)
 
 
 
