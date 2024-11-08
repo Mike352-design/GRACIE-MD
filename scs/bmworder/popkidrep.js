@@ -31,7 +31,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
       owner,
     } = repoData;
 
-    const messageText = `*_POPKID MD GITHUB INFORMATION_*\n
+    const messageText = `*_99 CLAN MD GITHUB INFORMATION_*\n
 *_Name:_* ${name}
 *_Stars:_* ${stargazers_count}
 *_Forks:_* ${forks_count}
