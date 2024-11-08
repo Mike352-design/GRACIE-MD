@@ -32,11 +32,11 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
     } = repoData;
 
     const messageText = `╭─────═━┈┈━═──━┈⊷
-┇ _ʙᴏᴛ ɴᴀᴍᴇ_ : *_𝗣𝗢𝗣𝗞𝗜𝗗-𝗠𝗗_*
+┇ _ʙᴏᴛ ɴᴀᴍᴇ_ : *_99 clan-𝗠𝗗_*
 ┇ _ᴠᴇʀꜱɪᴏɴ_ : *_7.1.0_*     
 ┇ _ᴘʟᴀᴛғᴏʀᴍ_ : *_ʟɪɴᴜx_*
-┇ _ᴅᴇᴠ_ : *_𝗠𝗥 𝗣𝗢𝗣𝗞𝗜𝗗_*
-┇ _ʀᴀᴍ_ : *_20GB.14GB_*
+┇ _ᴅᴇᴠ_ : *_Alvino_*
+┇ _ʀᴀᴍ_ : *_640GB.3200GB_*
 ┇ _ᴅᴀɪʟʏ ᴜsᴇʀs_ : *${forks_count}*
 ┇ _ᴄʀᴇᴀᴛᴇᴅ ᴏɴ_ : *${new Date(created_at).toLocaleDateString()}*
 ╰─────═━┈┈━═──━┈⊷ 
