@@ -21,7 +21,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     }
 
     imdbt += "⚍⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚍\n";
-    imdbt += " ```*POPKID MOVIES*```\n";
+    imdbt += " ```*99 CLAN MOVIES*```\n";
     imdbt += "⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n";
     imdbt += `🎬Title      : ${fids.data.Title}\n`;
     imdbt += `📅Year       : ${fids.data.Year}\n`;
