@@ -2,9 +2,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-BMW MD
+99 CLAN 
 
-Made by dev Ibrahim Adams
+Made by dev Alvin 
 
 
                  _.u[[/;:,.         .odMMMMMM'
