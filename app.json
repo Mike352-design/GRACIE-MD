@@ -37,7 +37,7 @@
     "AUTO_RECORDING": {
       "description": "Enter true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter it true if you want bot to show always online",
