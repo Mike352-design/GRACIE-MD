@@ -134,7 +134,7 @@ adams( {
     
     
          let msg = `
-┏━━━┛ Bmw-Rang ┗━━━┓
+┏━━━┛ 99 CLAN RANK ┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -210,7 +210,7 @@ adams( {
     
     
          let msg = `
-┏━━━┛ bmw rank┗━━━┓
+┏━━━┛ 99 rank┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
