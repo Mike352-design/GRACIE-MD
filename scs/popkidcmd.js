@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
   *Hey🖐️* *${nomAuteurMessage}*
   
-  *POPKID MD IS RUNNING WITH [${cm.length}0] COMMANDS*
+  *99 CLAN MD IS RUNNING WITH [${cm.length}0] COMMANDS*
 
   *More commands will be out soon*
  
@@ -49,7 +49,7 @@ let menuMsg = `
 > 📅 ᴅᴀᴛᴇ: ${date} 
 
 
-> Made by : ©POPKID
+> Made by : @mistahxe
 `;
 
    var lien = mybotpic();
@@ -118,7 +118,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BMW MD IMPORTANT INFO* 
+   *99 CLAN AMD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
 > https://github.com/ibrahimaitech/BMW-MD
@@ -130,12 +130,12 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *ALVINO*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     MAD 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
 
 ❒────────────────────❒`;
 
