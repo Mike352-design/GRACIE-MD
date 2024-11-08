@@ -80,7 +80,7 @@ adams({ nomCom: 'ss',
 let linkkk = `https://api.maher-zubair.tech/misc/sstab?url=${linkk}&dimension=720x720`;
 
 let res = await getBuffer(linkkk);
-   let caption = '*Powered by BARAKA-MD-V1*' 
+   let caption = '*Powered by 99 CLAN-MD*' 
 
 await zk.sendMessage(dest, { image: res }, { caption: caption }, { quoted: ms });
 
