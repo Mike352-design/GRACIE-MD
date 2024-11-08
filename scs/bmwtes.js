@@ -37,7 +37,7 @@ adams({
         // Prepare the message with video details
         const infoMess = {
           image: { url: videos[0].thumbnail },
-          caption: `*BMW-MD VIDEO PLAYER*`
+          caption: `*99 CLAN-MD VIDEO PLAYER*`
 
         };
 
