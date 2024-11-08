@@ -12,7 +12,7 @@ const alive = async (m, Matrix) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).toLowerCase() : '';
     if (['alive', 'uptime', 'runtime'].includes(cmd)) {
 
-  const uptimeMessage = `*POPKID MD IS ACTIVE*
+  const uptimeMessage = `*99 CLAN MD IS ACTIVE*
 
 ╭─────═━┈┈━═──━┈⊷
 ┇ *${days} Day*
